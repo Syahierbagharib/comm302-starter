@@ -1,0 +1,6 @@
+{
+  "name": "TradingView Markets",
+  "description": "Real-time market quotes, index benchmarks, active equities screener, sector heatmap, and economic events calendar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
